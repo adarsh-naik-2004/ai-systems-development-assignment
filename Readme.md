@@ -38,4 +38,7 @@ Follow these steps to set up and run the project locally.
 To verify that the search function is working correctly, run the unit tests from the project's root directory. The `discover` command will automatically find and run all tests.
 
 ```bash
+
 python -m unittest discover
+```
+![Tests Passed](results/tests_passed.png)
